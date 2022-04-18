@@ -10,6 +10,6 @@ This app uses the following libraries:
 - hive: local database
 - dio: http client
 
-![ezgif com-gif-maker](https://drive.google.com/file/d/1mA0UPWmtcIMfHaDyGe2DEXG7WjaJF4XJ/view?usp=sharing)
+![image](http://drive.google.com/uc?export=view&id=1mA0UPWmtcIMfHaDyGe2DEXG7WjaJF4XJ)
 
 
