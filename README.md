@@ -10,8 +10,10 @@ This app uses the following libraries:
 - hive: local database
 - dio: http client
 
-![image](https://drive.google.com/uc?export=view&id=1mA0UPWmtcIMfHaDyGe2DEXG7WjaJF4XJ)
+![image](https://drive.google.com/uc?export=view&id=1vTO4UTUPXpRzLL7ZUHAe4g_XgAAvYnzN)
 
-![ezgif com-gif-maker](https://drive.google.com/uc?export=view&id=1mA0UPWmtcIMfHaDyGe2DEXG7WjaJF4XJ)
+![](https://drive.google.com/uc?export=view&id=1vTO4UTUPXpRzLL7ZUHAe4g_XgAAvYnzN)
 
-![image](https://drive.google.com/uc?export=view&id=11aMYzjAmxyayGRhK2lOm7SiFANhsoA8u)
+![ezgif com-gif-maker](https://drive.google.com/uc?export=view&id=1vTO4UTUPXpRzLL7ZUHAe4g_XgAAvYnzN)
+
+<img src="https://drive.google.com/uc?export=view&id=1vTO4UTUPXpRzLL7ZUHAe4g_XgAAvYnzN" alt="app navigation gif" title="App gif" width="500"/>
